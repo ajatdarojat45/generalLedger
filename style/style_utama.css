@@ -1,0 +1,231 @@
+.tombol-help {
+	position: fixed;
+	bottom: 10px;
+	left: 10px; 
+}
+
+.l-btn{
+	vertical-align:middle;
+}
+.button-sep{
+	display:inline-block;
+	width:0;
+	height:22px;
+	border-left:1px solid #ccc;
+	border-right:1px solid #fff;
+	vertical-align:middle;
+}
+
+#font_header_form {
+	font-size:16px;
+	color:#0000FF;
+	text-align:left;
+}
+
+#mp_header {
+	height:45px;
+	width:100%;
+	text-align:center;
+	background-color:#003366;
+	border:solid #003366 1px;
+	border-bottom-color:#FFFFFF;
+	/*background-image:url(../img/bg-head.jpg);*/
+/*	border:solid #CCCCCC 1px;
+*/}
+
+#mp_header_kiri {
+	height:30px;
+	width:195px;
+	margin-top:5px;
+	margin-left:20px;
+	text-align:left;
+	float:left;
+	font-size:18px;
+	color:#FFFFFF;
+	background-image:url(../img/logo.png);
+	/*border:solid #000000 1px;*/
+}
+
+#mp_header_kanan {
+	height:20px;
+	width:70%;
+	float:right;
+	margin-top:15px;
+	text-align:right;
+	font-size:14px;
+	font-family: "Bookman Old Style", Calibri;
+	font-weight:none;
+	color:#FFF;
+	vertical-align:middle;	
+/*	border:solid #000000 1px;*/
+}
+
+#mp_menu_bar {
+	float:inherit;
+	height:25px;
+	width:100%;
+	background-color:#003366;
+	border:solid #003366 1px;
+	border-bottom-color:#FFFFFF;
+}
+
+#mp_menu{
+	float:left;
+	height:20px;
+	width:100px;
+	margin-top:2px;
+	margin-right:4px;
+	margin-left:2px;
+	padding-left:5px;
+	text-align:left;
+/*	font-family: Arial, Helvetica, sans-serif;
+	font-size:10px;
+	padding-top:5px;
+	cursor:pointer;
+	color:#000000;
+	background-color:#999999;*/
+}
+
+#mp_menu_hl{
+	float:left;
+	height:20px;
+	width:50px;
+	margin-top:2px;
+	margin-right:4px;
+	margin-left:2px;
+	text-align:center;
+/*	font-family: Arial, Helvetica, sans-serif;
+	font-size:10px;
+	padding-top:5px;
+	cursor:pointer;
+	color:#000000;
+	background-color:#999999;*/
+}
+
+#mp_footer_old {
+	float:inherit;
+	width:100%;
+	height:30px;
+	color:#666666;
+	font-family: tahoma, arial;
+	font-size:12px;
+	text-align:center;
+	background-color:#000000;
+	padding-top:5px;
+}
+
+#mp_footer {
+	position:fixed;
+	width:100%;
+	height:30px;
+	color:#666666;
+	font-family: tahoma, arial;
+	font-size:12px;
+	text-align:center;
+	background-color:#000000;
+	padding-top:5px;
+	bottom:0px;
+}
+
+.mp_content {
+	float:inherit;
+	height:89%;
+	width:100%;
+	position:absolute;
+	margin-top:35px;
+	margin-left:0px;
+	/*border:solid #0000FF 1px;*/
+}
+
+.mp_content_laporan {
+	float:inherit;
+	height:80%;
+	width:99%;
+	position:absolute;
+	margin-top:5px;
+	margin-left:5px;
+	/*border:solid #0000FF 1px;*/
+}
+
+#mp_content_utama {
+	width:100%;
+	height:88%;
+	background-color:#CCCCCC;
+	border:solid #000000 1px;
+	position:relative;
+}
+
+#mp_slider {
+	float:left;
+	height:30px;
+	width:30px;
+	margin-top:5px;
+	margin-left:5px;
+}
+
+.form_nav_judul {
+	height:30px;
+	width:auto;
+	font-size:12px;
+	color:#FFFFFF;
+	float:left;
+	margin-left:10px;
+	padding-top:10px;
+}
+
+.form_nav_pt {
+	height:20px;
+	width:auto;
+	font-size:10px;
+	color:#000000;
+	float:left;
+	margin-left:5px;
+}
+
+.form_nav_sys {
+	height:30px;
+	width:auto;
+	font-size:12px;
+	float:left;
+	margin-left:5px;
+	text-transform: uppercase;
+}
+
+.form_nav_btn {
+	height:30px;
+	width:30px;
+	font-size:12px;
+	float:right;
+	vertical-align:bottom;
+	text-align:center;
+	margin-top:3px;
+	margin-right:10px;
+	color: #FFFFFF;
+}
+
+.form_nav {
+	top:0px;
+	left:0px;
+	height:35px;
+	width:100%;
+	font-size:18px;
+	float:inherit;
+	position:fixed;
+	background-color: #990000;
+}
+.form_isi {
+	float:inherit;
+	padding-top:40px;
+	width:100%;
+	background-color:#FF9900;
+	font:"Courier New", Courier, monospace;
+	font-size:0.8em;
+}
+
+.footer_teks {
+	color:#333333;
+	font-family: tahoma, arial;
+	font-size:12px;
+	text-align:center;
+	padding-top:5px;
+}

@@ -1,0 +1,64 @@
+div.sdmenu {
+	color: #000;
+	width:200px;
+	font-family: Tahoma; 
+	font-size: 14px;
+	padding-bottom: 10px;
+}
+div.sdmenu div {
+	/*background: url(../img/img_neo/menu-button.gif);*/
+	font-family: Arial, Verdana, Helvetica, sans-serif ;
+	font-size: 12px;
+	background-color:#F00;
+	border:solid 1px #990000;
+	color:#CCC;
+	background:#000;
+	cursor:default;	
+	overflow: hidden;
+}
+div.sdmenu div:first-child {
+	/*background: url(../img/img_neo/menu-button.gif);*/
+	/*background: url(../img/gbr_button.jpg) repeat-x;*/
+}
+
+div.sdmenu div.collapsed {
+	height: 25px;
+	font-size: 12px;
+}
+
+div.sdmenu div span {
+	display: block;
+	padding: 4px 10px;
+	color:#666;
+	cursor: pointer;
+	font-size: 14px;
+	font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif ;
+	height:25px;
+}
+
+div.sdmenu div.collapsed span {
+}
+
+div.sdmenu div a {
+	padding: 5px 25px;
+	display: block;
+	color:#000;/*   : #294B57;*/
+	text-decoration: none;
+	background-color:#FFF;
+	font-size: 10px;
+	font-family: Tahoma, Helvetica, sans-serif ;
+}
+
+div.sdmenu div a.current {
+	color: #fff;
+}
+
+div.sdmenu div a:hover {
+	background: #999 url(../modules/img/linkarrow.gif) no-repeat right center;
+	color:#000;
+	text-decoration: none;
+}
+
+div.sdmenu div a:active {
+	color:#F00;	
+}

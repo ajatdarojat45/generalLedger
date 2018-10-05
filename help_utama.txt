@@ -1,0 +1,16 @@
+Ini text file berisi tentang cara penggunaan program :
+
+MENU UTAMA
+
+MENU MASTER
+
+MENU TRANSAKSI
+
+MENU LAPORAN
+
+MENU SETUP
+
+MENU LAINNYA
+
+
+

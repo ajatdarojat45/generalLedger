@@ -1,0 +1,32 @@
+Salam,
+
+Hari ini saya telah melakukan upgrade program untuk keperluan Sirkulasi dan keuangan TEMPO Bandung, yaitu SISKO & SISMA (MBM & TEBI).
+
+KEADAAN TEMPO BANDUNG SEBELUMNYA :
+==================================
+1. Program MBM : Shortcut program yang ada di desktop user tidak merujuk ke file executable yg seharusnya digunakan untuk memanggil program MBM, file pemanggilnya adalah "tutup.exe". File tsb ada di folder SISKO.
+Saya tidak tahu persis apakah memang dulunya SISKO & SISMA dijadikan satu (saya kira seharusnya tidak :-)).
+
+2. PROGRAM SISKO : tidak bisa update data dari Jakarta (Kata orang TEMPO Bandung). Shortcut pemanggilnya bukan batchfile seperti yg saya ketahui, melainkan langsung memanggil file executable, file "sirkoran.exe". Saya tidak tahu apakah SISKO yg lama memang memanggil file executable tsb atau seharusnya me-run batchfile DOS seperti yg saya ketahui saat ini. Tapi hal itu saat ini tidak menjadi fokus utama karena upgrade system telah dilakukan dengan system yg baru yg saya ambil dari Jakarta sesuai petunjuk Izoel.
+
+3. Sedangkan untuk MBM, jelas program tidak bisa running karena file pemanggilnya salah. Setelah saya cek program lama memang tidak ada di komputer yg saya tangani. Saya sudah tanya kepada orang yg bertanggung jawab di Bandung (Sdr Didit), katanya program SISKO & MBM pernah mengalami perpindahan komputer. Kemudian saya tanyakan perihal komputer lama yg digunakan oleh Bandung untuk menjalankan program tsb. Komputernya ada tapi data folder data/program MBM tidak ada di komputer tsb.
+
+
+
+PENANGANAN MASALAH & SOLUSINYA
+==============================
+1. Upgrade program SISKO sudah dilakukan. Program sudah bisa digunakan dengan spesifikasi persis seperti yg digunakan oleh JAKARTA tapi data keagenan hanya untuk BANDUNG SAJA. Ini dilakukan sesuai petunjuk Izoel, dan pengecekan data/report telah diperiksa oleh Didit disaksikan langsung oleh saya. Artinya SISKO sudah OKE.
+
+2. MBM : Program sudah di-upgrade menggunakan program yg sama dengan JAKARTA, konfigurasi untuk kebutuhan TEMPO BANDUNG sudah dilakukan. Masalah ada pada saat proses terima data TRANSAKSI yang diberikan oleh Izoel. Sedangkan untuk proses terima data MASTER tidak ada masalah. Hal ini sudah saya coba tangani berdasarkan petunjuk dari Izoel dengan komunikasi via telpon saat itu. 
+
+Berdasarkan keterangan orang TEMPO Bandung, program MBM jarang digunakan. Dari informasi yg saya peroleh dari user, program tsb terakhir kali digunakan tahun 2008 :-). Dan untuk saat ini biasanya apa yg dibutuhkan oleh orang TEMPO Bandung mengenai MBM (report,dsb) dipasok langsung dari Jakarta. Namun saya kira apabila MBM bisa digunakan di Bandung pun akan lebih baik lagi. Error message yg keluar sudah saya beritahukan kepada Izoel, saya sudah coba tangani sesuai petunjuk beliau :-) tapi masih belum sukses.
+
+Untuk itu, perbaikan selanjutnya saya serahkan kepada Izoel, nanti apabila telah selesai saya bisa mampir kembali ke kantor TEMPO BANDUNG untuk melakukan upgrade ulang untuk MBM. Saya bisa lakukan mungkin minggu ini saat saya pulang liburan. Urgensi-nya sudah saya sepakati dengan user di Bandung dan sudah setuju.
+
+
+Demikian sekilas Info dari Bandung.
+
+
+Wassalam,
+
+Aryadi
